@@ -1,0 +1,24 @@
+### Build e binários ###
+**/target/
+**/build/
+
+### IntelliJ ###
+**/.idea/
+**/*.iml
+
+### Eclipse ###
+**/.classpath
+**/.project
+**/.settings/
+
+### VSCode ###
+**/.vscode/
+
+### NetBeans ###
+**/nbproject/private/
+**/nbbuild/
+**/dist/
+**/nbdist/
+
+### SO ###
+**/.DS_Store
